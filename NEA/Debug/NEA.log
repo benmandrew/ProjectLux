@@ -1,0 +1,30 @@
+﻿  BVH.cpp
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(18): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\bvh.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  camera.cpp
+c:\users\mirrorworld\desktop\nea\nea\camera.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\mirrorworld\desktop\nea\nea\camera.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mirrorworld\desktop\nea\nea\camera.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mirrorworld\desktop\nea\nea\camera.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mirrorworld\desktop\nea\nea\camera.cpp(109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mirrorworld\desktop\nea\nea\camera.cpp(126): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  geometry.cpp
+  main.cpp
+c:\users\mirrorworld\desktop\nea\nea\main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\mirrorworld\desktop\nea\nea\main.cpp(97): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  model.cpp
+  modelloader.cpp
+  transform.cpp
+c:\users\mirrorworld\desktop\nea\nea\transform.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\mirrorworld\desktop\nea\nea\transform.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\mirrorworld\desktop\nea\nea\transform.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mirrorworld\desktop\nea\nea\transform.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mirrorworld\desktop\nea\nea\transform.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  NEA.vcxproj -> C:\Users\Mirrorworld\Desktop\NEA\Debug\NEA.exe
